@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+boto = "==2.48.0"
+"bz2file" = "==0.98"
+certifi = "==2017.7.27.1"
+chardet = "==3.0.4"
+gensim = "==3.0.1"
+idna = "==2.6"
+numpy = "==1.13.3"
+requests = "==2.18.4"
+scipy = "==0.19.1"
+six = "==1.11.0"
+"urllib3" = "==1.22"
+smart_open = "==1.5.3"
+
+[dev-packages]
+
+[requires]
+python_version = "3.5"
