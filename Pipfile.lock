@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f647cd88941e9819d72e454f8a6fac59b964aaeba8f6574f202610f446d73d53"
+            "sha256": "50404543f9a243dfc2d944e105535ec4747953aef1ece9c93a2bb9116b6e758a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -33,11 +33,11 @@
         },
         "certifi": {
             "hashes": [
-                "sha256:40523d2efb60523e113b44602298f0960e900388cf3bb6043f645cf57ea9e3f5",
-                "sha256:54a07c09c586b0e4c619f02a5e94e36619da8e2b053e20f594348c0611803704"
+                "sha256:046832c04d4e752f37383b628bc601a7ea7211496b4638f6514d0e5b9acc4939",
+                "sha256:945e3ba63a0b9f577b1395204e13c3a231f9bc0223888be653286534e5873695"
             ],
             "index": "pypi",
-            "version": "==2017.7.27.1"
+            "version": "==2019.6.16"
         },
         "chardet": {
             "hashes": [
@@ -49,18 +49,12 @@
         },
         "gensim": {
             "hashes": [
-                "sha256:00eac06e7311f98c7ccad9f14744268759752092bf41df789b300b75daa24653",
-                "sha256:115eb42014bd6cc5986395a18cac3ade8cd6447d645ddd4fb417529f43a2f0eb",
                 "sha256:4827012f6f020ac4f4067c2a2a88542391917113faaa417505e1ee8a1e7e2650",
-                "sha256:4860de181194fcc9c0a05ab6a6cc137a0dc8f844ea58689316086215e46b278d",
                 "sha256:657c331d42a2f73daf3d0c94a4dc0124dfb904ccb0cfa147fd8014a044a27452",
                 "sha256:75bdfcd113da24ed9caf3fe0f489480dafdb26c1863d30c85f49a617b3be7f2c",
                 "sha256:8c33a5daab64df8c5c50efefb2a44a853d4c6693a9488c3a8922f7a140e52864",
                 "sha256:9112d36599ef73c9dd969de8d9a0b6c65173c1e5fb5bd80878d179531fa7e98f",
-                "sha256:92c0cb4cc2b0f5bcaa74c3ae1c42ca1ec0b8555ea8c3afd9f7c936b5efb12547",
                 "sha256:9c44057ff7d13b76043a63dc9e239d8b7b3b8b84fe0d826f6b25747aec2d494f",
-                "sha256:afe041418cf5a7044242c9fd92da8b4020a034c27b46b8b5b6f3135777919307",
-                "sha256:b206f2ef937ac1c0e6027065bbdb86bac82a476c668e0f251a7d04e488d1d130",
                 "sha256:b476acff849a64cccd96d80ac76fcb7ae381867829f393b28a7b7964d93d0875",
                 "sha256:e8e029700a95ed73dfef22574b59abe84f2091dd0caab5a043479824cf04c489",
                 "sha256:e9eeb115b844b9c2dfb813b6342c80244c787bed3d05bf79713c61b4888abad3",
