@@ -5,17 +5,11 @@ A script to convert Word2Vec model to GloVe format (text format)
 Masaya Suzuki <<suzukimasaya428@gmail.com>>
 
 ## Installation
-### When pipenv is used
 ```bash
 $ pipenv install
 ```
 
-### When pipenv isn't used
-```bash
-$ pip install -r requirements.txt
-```
-
 ## Usage
 ```bash
-$ python word2vec2glove.py word2vec.model > glove.model
+$ pipenv run python word2vec2glove.py word2vec.model > glove.model
 ```
